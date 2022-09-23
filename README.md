@@ -6,12 +6,9 @@ OpenJS Foundation
 
 https://deck.gl/events/madrid-summit-2022/
 
-Author: Jesús Arroyo
-
-Company: CARTO
-
 In this workshop we will explore some tools to render geospatial data in a Jupyter Notebook.
 
+Slides: https://docs.google.com/presentation/d/1bpqyLWsa9DKBFcjWtsrDfS36IX2vWEM6XF4tlfW8dYg/edit?usp=sharing
 
 ## Setup
 
@@ -36,3 +33,7 @@ jupyter nbextension enable --sys-prefix --py pydeck
 ```
 jupyter notebook
 ```
+
+Author: Jesús Arroyo
+
+Company: CARTO
